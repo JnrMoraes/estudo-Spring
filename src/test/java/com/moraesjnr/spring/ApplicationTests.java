@@ -1,10 +1,10 @@
-package com.moraesjunior.playgroundspring;
+package com.moraesjnr.spring;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PlaygroundSpringApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
